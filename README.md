@@ -1,2 +1,4 @@
 # Basic-Portfolio
-Holds information on how to contact me, a little about who I am, and links to some projects I have made.
+About who I am.
+Holds information on how to contact me.
+Links to projects I have made.
